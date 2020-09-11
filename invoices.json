@@ -9,7 +9,8 @@
 			"id": "3",
 			"date": "2020-09-11",
 			"recipient": {
-				"name": "poussasCreyson"
+				"name": "poussasCreyson",
+				"address": "Testes de textos para informações"
 			},
 			"currency": "$",
 			"services": [
