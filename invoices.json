@@ -6,7 +6,10 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
-			"recipient": {},
+			"date": "2020-09-11",
+			"recipient": {
+				"name": "poussasCreyson"
+			},
 			"currency": "$",
 			"services": [
 				{
