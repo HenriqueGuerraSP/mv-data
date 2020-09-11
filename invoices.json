@@ -6,6 +6,16 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{
+					"description": "Pouussas creysson",
+					"amount": "20000"
+				}
+			]
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
